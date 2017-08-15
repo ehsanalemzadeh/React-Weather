@@ -1,4 +1,4 @@
-names = ['ehsan','gholi','asghar'];
+names = ['ehsan','gholi','asghari'];
 
 // names.forEach((name)=>console.log('forEach',name));
 
