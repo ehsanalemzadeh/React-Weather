@@ -10,7 +10,11 @@ var React = require('react');
 
 
 // Arrow Function Simplification
-var Examples = (props)=> (<h3>Examples Component</h3>)
+var Examples = (props)=> (
+  <div>
+    <h3>Examples Component</h3>
+    <p>Welcome</p>
+  </div>);
 
 
 module.exports = Examples;
